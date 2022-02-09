@@ -42,7 +42,7 @@ nav{
 }
 
 #content_area{
-    background-image: linear-gradient(to bottom right, darkred, red, orange, yellow);
+    background-image: linear-gradient(to bottom right, rgb(32, 1, 32), rgb(75, 3, 75), rgb(78, 0, 78), rgb(179, 1, 179),rgb(248, 6, 248));
     height: 700px;
 }
 
