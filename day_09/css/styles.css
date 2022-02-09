@@ -3,7 +3,7 @@ body{
 }
 
 nav{
-    background-color: blue;
+    background-image: linear-gradient(to right, darkblue, blue, lightblue);
 }
 
 #trail_pic{
@@ -42,10 +42,8 @@ nav{
 }
 
 #content_area{
-    background-color: blueviolet;
-    font-size: 18pt;
-    color: white;
-
+    background-image: linear-gradient(to bottom right, darkred, red, orange, yellow);
+    height: 700px;
 }
 
 footer{   
@@ -53,7 +51,7 @@ footer{
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: blue;
+    background-image: linear-gradient(to right, darkblue, blue, lightblue);
     text-align: center;
     font-size: 18pt;
 }
